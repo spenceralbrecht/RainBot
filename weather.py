@@ -1,4 +1,4 @@
-import requests, json, config, os
+import requests, json, os
 MY_HOME_LOCATION_KEY = "3712_PC"
 BASE_URL = "http://dataservice.accuweather.com/"
 SINGLE_DAY_FORCAST_ENDPOINT = "forecasts/v1/daily/1day/"

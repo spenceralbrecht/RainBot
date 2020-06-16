@@ -1,4 +1,4 @@
-import config, os
+import os
 from twilio.rest import Client
 
 
